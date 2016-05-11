@@ -1,0 +1,6 @@
+# Ignore all dot files and self
+.*
+!/.gitignore
+
+# Ignore all data files
+Data/*.*
